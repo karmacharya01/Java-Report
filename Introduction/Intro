@@ -1,0 +1,112 @@
+Java
+
+### Introduction to Java
+    Java is a high-level, object-oriented, and platform-independent programming language developed by "Sun Microsystems"
+(now Oracle) and written by "James Gosling" in 1991. Initially, the language was called Oak, but it was later renamed
+Java in 1995. It took 18 months to develop the first five working versions of Java. Java is widely used for building
+desktop applications, web applications, mobile applications, and enterprise systems. It follows the principle
+“Write Once, Run Anywhere”, which means Java programs can run on any system that has a Java Virtual Machine (JVM).
+
+
+# Features of Java
+1. Object-Oriented : Supports concepts like class, object, inheritance, polymorphism, and encapsulation.
+2. Platform Independent : Java bytecode can run on any OS with JVM.
+3. Simple : Easy to learn with clear syntax and no complex features like pointers.
+4. *Secure : Provides strong security through JVM, bytecode verification, and no direct memory access.
+5. Robust : Includes exception handling and garbage collection.
+6. Multithreaded : Supports execution of multiple tasks at the same time.
+7. Portable : Same program runs on different platforms without modification.
+8. High Performance : Uses Just-In-Time (JIT) compiler for better performance.
+
+
+# Advantages of Java
+1. Platform independence (Write Once, Run Anywhere).
+2. Strong security features.
+3. Large standard library and frameworks support.
+4. Object-oriented approach improves code reusability.
+5. Automatic memory management using garbage collection.
+6. Widely used and supported by a large community.
+
+
+# Disadvantages of Java
+1. Slower than low-level languages like C and C++.
+2. Requires JVM, which increases memory usage.
+3. More verbose code compared to modern languages.
+4. Not suitable for low-level programming.
+5. Startup time can be slow for some applications.
+
+
+Lab 1: Introduction to Java.
+#Objectives
+1.To understand the basic structure of a Java program.
+2.To take user input using the Scanner class.
+3.To perform basic arithmetic operations (sum and average).
+4.To develop confidence in writing and executing simple Java programs.
+
+#Conclusion
+    In this lab, we learned the fundamentals of Java programming. We practiced displaying messages, accepting user input,
+and performing basic calculations. These programs help build a strong foundation for understanding core Java concepts
+and preparing for more advanced programming tasks.
+
+
+Lab 2: TokenExceptionsAndControlStructure
+#Objectives
+1.To understand Java tokens, expressions, and operators.
+2.To apply decision-making statements such as if-else, switch, and conditional operator.
+3.To learn looping concepts through the Fibonacci series program.
+4.To understand the use of control transfer statements like break and continue.
+5.To practice using arithmetic, relational, logical, and bitwise operators in Java.
+
+#Conclusion
+    This lab helped in understanding core Java programming concepts such as operators, control structures, and expressions.
+By implementing various programs, we gained hands-on experience with decision making, loops, and operator usage. These
+concepts are essential for writing efficient and logical Java programs and form the base for advanced programming topics.
+
+
+Lab 3: Object_OrientedProgrammingConcepts
+#Objectives
+1. To understand the basic principles of Object-Oriented Programming (OOP).
+2. To learn how to define and use classes and objects in Java.
+3. To understand the role of the this keyword in differentiating instance variables and parameters.
+4. To learn how constructors work in Java.
+5. To understand the concept of different types of constructor.
+6. To demonstrate how Java uses pass-by-value for method arguments.
+7. To learn method overloading by defining multiple methods with the same name.
+8. To understand nested inner classes and their access to outer class members.
+9. To explore inner classes, including nested and anonymous inner classes.
+
+#Conclusion
+    This lab helped us understand the core concepts of Object-Oriented Programming in Java. By practicing classes, objects,
+constructors, methods, inner classes, and recursion, we built a strong foundation for writing structured and efficient
+Java programs.
+
+
+Lab 4: Inheritance & Packaging
+#Objectives
+1. To understand the concept of inheritance in Java.
+2. To learn how abstract classes and abstract methods are used.
+3. To understand the use of the `super` keyword in inheritance.
+4. To demonstrate method overriding and runtime polymorphism.
+5. To understand interfaces and their role in achieving multiple inheritance.
+6. To learn the use of `static` variables and constructors.
+7. To understand the purpose of `final` variables, methods, and classes.
+8. To learn about built-in Java packages.
+9. To create and use user-defined packages.
+10. To understand code reusability and modular programming in Java.
+
+#Conclusion
+    This lab helped us understand inheritance, interfaces, and packaging in Java. By using abstract classes, method
+overriding, and packages, we learned how to write reusable, well-structured, and modular Java programs.
+
+
+Lab 5: Handling Error / Exception**
+#Objectives
+1. To understand the concept of errors and exceptions in Java.
+2. To learn how to handle exceptions using `try` and multiple `catch` blocks.
+3. To understand how to create and use user-defined exceptions.
+4. To learn the use of `throw` and `throws` keywords.
+5. To improve program reliability by handling runtime errors properly.
+
+#Conclusion
+    This lab helped us understand how to handle exceptions in Java. By using try–catch blocks, user-defined exceptions,
+and the throw/throws mechanism, we learned to write safer and more reliable programs.
